@@ -1,9 +1,9 @@
 # Projet_2
 Conception d'une application au service de la santé publique
 
-Date de soutenance : 29/01/2021
-Nom : Blohorn
-Prénom : Agar
+###### Date de soutenance : 29/01/2021
+###### Nom : Blohorn
+###### Prénom : Agar
 
 # Conception d'une application au service de la santé publique
 
